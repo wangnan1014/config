@@ -1,0 +1,5 @@
+server:
+  port: 3340
+spring:
+  application:
+    name: cloud-config
