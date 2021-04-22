@@ -1,11 +1,5 @@
-server:
-  port: 3340
+
 spring:
   application:
-    name: cloud-config-server
-data:
-  env: config-eureka-dev
-  user:
-    username: eureka-client-user
-    password: 129102910211111111
+    name: cloud-config-client
 
