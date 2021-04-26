@@ -10,3 +10,6 @@ eureka:
   instance:
     prefer-ip-address: true
     instance-id: cloud-config-client
+data
+  url: www.baidu.com
+name: wangnan
