@@ -1,12 +1,3 @@
-# 注册中心地址
-eureka:
-  client:
-    service-url:
-#      defaultZone: http://localhost:10211/eureka/
-      defaultZone: http://eureka10211:10211/eureka/
-  instance:
-    prefer-ip-address: true
-    instance-id: cloud-config-client
 data: 
   url: www.google.com
 name: wangnan1
