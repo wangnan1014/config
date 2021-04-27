@@ -8,5 +8,5 @@ eureka:
     prefer-ip-address: true
     instance-id: cloud-config-client
 data: 
-  url: www.baidu.com
+  url: www.google.com
 name: wangnan1
