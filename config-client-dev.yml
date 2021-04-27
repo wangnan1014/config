@@ -9,4 +9,4 @@ eureka:
     instance-id: cloud-config-client
 data: 
   url: www.baidu.com
-name: wangnan
+name: wangnan1
