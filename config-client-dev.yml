@@ -1,7 +1,4 @@
 # 注册中心地址
-server:
-  port: 3333
-# 注册中心地址
 eureka:
   client:
     service-url:
